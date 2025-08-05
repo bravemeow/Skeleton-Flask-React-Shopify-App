@@ -1,8 +1,8 @@
 {
-  "name": "discount-wise",
+  "name": "skeleton-flask-react-shopify-app",
   "version": "1.0.0",
-  "description": "```Merchants do not know WHAT/WHEN promo to use for a product.```",
-  "license": "ISC",
+  "description": "A skeleton shopify app with flask and react",
+  "license": "MIT",
   "author": "",
   "type": "commonjs",
   "main": "index.js",
