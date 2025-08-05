@@ -43,12 +43,15 @@ This is a **skeleton application** with following features:
 ### 1. Create Shopify App
 
 **-> Shopify Partners -> Create App**
+
 ![Step 1: Create Shopify App](images/step1.png)
 
 **-> Enter your app name**
+
 ![Step 2: Enter Your App Name](images/step2.png)
 
 **-> Check the app's client ID/SECRET (for .env)**
+
 ![Step 3: Check the App Credentials](images/step3.png)
 
 ### 2. Setup for Backend
