@@ -125,9 +125,12 @@ npm run dev
 
 ### 6. Test on Your Dev Store
 **Shopify Partners -> Overview -> Test your app**
+
 ![Step 6: Test your app](images/step4.png)
+
 **Install your app on dev store to test**
 
 ## 🚀 Ready to Develop
 **Now, the app is embedded, and able to interact with both backend(Flask)/frontend(React)**
+
 ![Ready to Develop](images/step5.png)
