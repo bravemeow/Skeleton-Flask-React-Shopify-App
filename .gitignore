@@ -1,0 +1,11 @@
+.env
+.env.skeleton-flask-react
+package-lock.json
+node_modules
+venv
+__pycache__
+.DS_Store
+.shopify/
+shopify.app.toml
+shopify.app.skeleton-flask-react.toml
+shopify_app.db

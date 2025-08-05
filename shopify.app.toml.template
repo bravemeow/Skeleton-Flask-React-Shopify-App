@@ -1,0 +1,23 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "your-client-id"
+name = "skeleton-flask-react"
+handle = "skeleton-flask-react"
+application_url = "https://your-ngrok-url.ngrok-free.app/auth"
+embedded = true
+
+[webhooks]
+api_version = "2025-07"
+
+[auth]
+redirect_urls = [ "https://your-ngrok-url.ngrok-free.app/auth/callback" ]
+
+[pos]
+embedded = false
+
+[build]
+include_config_on_deploy = true
+
+[[webhooks.subscriptions]]
+topics = ["app/uninstalled"]
+uri = "https://your-ngrok-url.ngrok-free.app/webhooks/uninstalled"
